@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es" original="AppResources.resx" tool-id="MultilingualAppToolkit" product-name="NetCalc" product-version="1.4.0.1" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="2.0.1000.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resx">
+        <trans-unit translate="yes" id="Resx/About" xml:space="preserve">
+          <source>about</source>
+          <target state="translated" state-qualifier="mt-suggestion">acerca de</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/AddressBlock" xml:space="preserve">
+          <source>Address block</source>
+          <target state="translated" state-qualifier="mt-suggestion">Bloque de direcciones</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/ApplicationTitle" xml:space="preserve">
+          <source>NETCALC</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">NETCALC</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/ChooseNetMask" xml:space="preserve">
+          <source>Choose the subnet mask</source>
+          <target state="translated">Elija la máscara de subred</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/ChooseSubnets" xml:space="preserve">
+          <source>Choose the number of subnets</source>
+          <target state="translated" state-qualifier="mt-suggestion">Elija el número de subredes</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/DetailsSubnetMask" xml:space="preserve">
+          <source>Subnet mask</source>
+          <target state="translated" state-qualifier="mt-suggestion">Máscara de subred</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/False" xml:space="preserve">
+          <source>No</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/FirstUsable" xml:space="preserve">
+          <source>First usable address</source>
+          <target state="translated" state-qualifier="mt-suggestion">Primera dirección usable</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/InvalidIP" xml:space="preserve">
+          <source>Invalid IP address</source>
+          <target state="translated" state-qualifier="mt-suggestion">Dirección IP no válida</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/LastUsable" xml:space="preserve">
+          <source>Last usable address</source>
+          <target state="translated" state-qualifier="mt-suggestion">Última dirección usable</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/Limit" xml:space="preserve">
+          <source>Only the first 500 results were shown.</source>
+          <target state="translated" state-qualifier="mt-suggestion">Sólo los primeros 500 resultados fueron demostrados.</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/ListSubnets" xml:space="preserve">
+          <source>List subnets</source>
+          <target state="translated">Listar redes</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/MainTitle" xml:space="preserve">
+          <source>cidr calculator</source>
+          <target state="translated">calculadora ip</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/NetBits" xml:space="preserve">
+          <source>Mask</source>
+          <target state="translated">Másc.</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/Network" xml:space="preserve">
+          <source>Network ID</source>
+          <target state="translated" state-qualifier="mt-suggestion">ID de red</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/NumberOfHosts" xml:space="preserve">
+          <source>Number of hosts</source>
+          <target state="translated" state-qualifier="mt-suggestion">Cantidad de hosts</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/RateAndReview" xml:space="preserve">
+          <source>rate and review</source>
+          <target state="translated">calificar y comentar</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/RFC3021Compliant" xml:space="preserve">
+          <source>RFC 3021 compliant</source>
+          <target state="translated" state-qualifier="mt-suggestion">Compatible con RFC 3021</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/ResourceFlowDirection" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="translated">LeftToRight</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/ResourceLanguage" xml:space="preserve">
+          <source>en-US</source>
+          <target state="translated">es</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/SubnetDetails" xml:space="preserve">
+          <source>Subnet details</source>
+          <target state="translated" state-qualifier="mt-suggestion">Detalles de subred</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/SubnetMask" xml:space="preserve">
+          <source>Subnet Mask</source>
+          <target state="translated">Másc. de subred</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/Subnets" xml:space="preserve">
+          <source>Subnets</source>
+          <target state="translated" state-qualifier="mt-suggestion">Subredes</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/Tip" xml:space="preserve">
+          <source>Tip</source>
+          <target state="translated">Dica</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/Toast" xml:space="preserve">
+          <source>You can tap on the list of subnets to view its details</source>
+          <target state="translated" state-qualifier="mt-suggestion">Puede puntear en la lista de subredes para ver sus detalles</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/True" xml:space="preserve">
+          <source>Yes</source>
+          <target state="translated" state-qualifier="mt-suggestion">Sí</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/WildCardSubnetMask" xml:space="preserve">
+          <source>Wildcard subnet mask</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Máscara de subred comodín</target>
+        </trans-unit>
+        <trans-unit translate="yes" id="Resx/BuyToRemoveAdvertisements" xml:space="preserve">
+          <source>remove advertisements</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">eliminar anuncios</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
